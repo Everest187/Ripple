@@ -1,0 +1,16 @@
+aiohttp==3.7.4.post0
+aiosignal==1.2.0
+aiosonic==0.13.0
+altgraph==0.17.2
+async-generator==1.10
+async-timeout==3.0.1
+asyncio==3.4.3
+colorama==0.4.4
+colored==1.4.3
+discord-webhook==0.12.0
+Discord-Webhooks==1.0.4
+fade==0.0.9
+httpx==0.16.1
+msmcauth==0.0.4
+playsound==1.2.2
+requests==2.26.0
