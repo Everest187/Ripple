@@ -18,8 +18,13 @@ Feel free to make changes, but you must link to this repository for copyright re
 ***All of these request features are optimized for speed, such as retrieving the current send time in unix and then computing the receive time for each send request once everything has been delivered.***
 - *Pool + Sockets* (Uses ThreadPool and Sockets to send requests)
 - *Async* (Async and Sockets to send requests) <- Fast Receives
-- *Async + Proxy* (Async + Proxies to deliver requests)
+- *Async + Proxy* (Async + Proxies to rotate requests with proxies)
 - *Threading + Sockets* (Threading with sockets is highly optimized, ignoring all receives until the sending is complete, resulting in quick requests.)
 
 ## **Usage**
 To change request methods, type `python3 ripp.py -METHOD` into the command line.
+
+*Methods*
+POOL
+ASYNC
+PROXY
