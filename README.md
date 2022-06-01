@@ -24,7 +24,7 @@ Feel free to make changes, but you must link to this repository for copyright re
 ## **Usage**
 To change request methods, type `python3 ripp.py -METHOD` into the command line.
 
-*Methods*
+*METHODS*
 - POOL
 - ASYNC
 - PROXY
